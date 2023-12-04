@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pexels\nApp</string>
+    <string name="splash_text">Pexels\nApp.</string>
+    <string name="bookmarks">Bookmarks</string>
+
+    <string name="try_again">Try Again</string>
+    <string name="explore">Explore</string>
+    <string name="bookmarks_empty">You haven\'t saved anything yet</string>
+    <string name="search_result_empty">No results found</string>
+    <string name="image_not_found">Image not found</string>
+
+    <string name="download">Download</string>
+    <string name="download_successful">Image downloaded</string>
+
+    <string name="download_failed">\u2620\ufe0f Image downloading failed</string>
+    <string name="connection_lost">\u2620\ufe0f Internet connection lost</string>
+    <string name="forbidden">\u2620\ufe0f You do not have access to the resource you are requesting</string>
+    <string name="too_many_requests">\u2620\ufe0f You have exceeded your allocated rate limit</string>
+    <string name="server_error">\u2620\ufe0f Network error occurred</string>
+</resources>
